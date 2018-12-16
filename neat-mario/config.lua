@@ -4,18 +4,18 @@ local _M = {}
 	Change BizhawkDir to your BizHawk directory.
 --]]
 --_M.BizhawkDir = "C:/Users/mmill/Downloads/BizHawk-2.2/"
-_M.BizhawkDir = "X:/B2_BizHawkLab/BizHawk-2.2.2/"
+_M.BizhawkDir = "D:/Users/thega/Documents/Emulators/marioai/"
 
-_M.StateDir = _M.BizhawkDir .. "Lua/SNES/neat-mario/state/"
-_M.PoolDir = _M.BizhawkDir .. "Lua/SNES/neat-mario/pool/"
+_M.StateDir = _M.BizhawkDir .. "Lua/SNES/Neat-Genetic-Mario/neat-mario/state/"
+_M.PoolDir = _M.BizhawkDir .. "Lua/SNES/Neat-Genetic-Mario/neat-mario/pool/"
 
 --[[
 	At the moment the first in list will get loaded.
 	Rearrange for other savestates. (will be redone soon)
 --]]
 _M.State = {
- 			"DP1.state",				-- Donut Plains 1
 			"YI1.state",				-- Yoshi's Island 1
+			"DP1.state",				-- Donut Plains 1
 			"YI2.state",				-- Yoshi's Island 2
 }
 
