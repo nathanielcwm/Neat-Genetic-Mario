@@ -58,7 +58,7 @@ _M.ButtonNames = {
 		"Up",
 		"Down",
 		"Left",
-		"Right",
+		"Right"
 	}
 	
 _M.BoxRadius = 6
