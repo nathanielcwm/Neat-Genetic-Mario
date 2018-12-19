@@ -1,4 +1,4 @@
-This is a fork of [mam91/Neat-Genetic-Mario] but now with my training and save states.
+This is a fork of [mam91/Neat-Genetic-Mario][1] but now with my training and save states.
 
 # Neat[Tinkering]
 Update to [Seth Bling's Mar I/O][1] lua code, forked from [mam91/Neat-Genetic-Mario][2].
@@ -66,6 +66,7 @@ B19ED489 | CDD3C8C37322978CA8669B34BC89C804 | 6B47BB75D16514B6A476AA0C73A683A2A4
 8. In the new window, click Script > Open Script (Ctrl + O) and select mario-neat.lua in your \BizHawk-2.2\Lua\SNES\neat-mario folder.
 9. The NEAT control window will display and you can then click Start to begin training.
 
+[0]:https://github.com/mam91/Neat-Genetic-Mario
 [1]:https://github.com/wts42/Neat-Genetic-Mario/wiki/MarI-O
 [2]:https://github.com/mam91/Neat-Genetic-Mario
 [Fixed function which determines if Mario got hit]:https://github.com/mam91/Neat-Genetic-Mario/commit/d5ec3aaded533f1c5061e144e6c3b250d6f63e28
