@@ -14,9 +14,9 @@ _M.PoolDir = _M.BizhawkDir .. "Lua/SNES/Neat-Genetic-Mario/neat-mario/pool/"
 	Rearrange for other savestates. (will be redone soon)
 --]]
 _M.State = {
+			"DP1.state",				-- Donut Plains 1
 			"YI2.state",				-- Yoshi's Island 2
 			"YI1.state",				-- Yoshi's Island 1
-			"DP1.state",				-- Donut Plains 1
 }
 
 --[[
